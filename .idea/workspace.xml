@@ -87,13 +87,17 @@
     <option name="LAST_COMMIT_MESSAGE" value="start" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="-1144" y="65" key="CommitChangelistDialog2" timestamp="1581601198229">
+    <state x="-1144" y="65" key="CommitChangelistDialog2" timestamp="1581667633796">
       <screen x="-1280" y="60" width="1024" height="819" />
     </state>
-    <state x="-1144" y="65" key="CommitChangelistDialog2/0.0.1536.864/-1280.60.1024.819@-1280.60.1024.819" timestamp="1581601198229" />
+    <state x="-1144" y="65" key="CommitChangelistDialog2/0.0.1536.864/-1280.60.1024.819@-1280.60.1024.819" timestamp="1581667633796" />
     <state x="-987" y="212" key="FileChooserDialogImpl" timestamp="1581599217406">
       <screen x="-1280" y="60" width="1024" height="819" />
     </state>
     <state x="-987" y="212" key="FileChooserDialogImpl/0.0.1536.864/-1280.60.1024.819@-1280.60.1024.819" timestamp="1581599217406" />
+    <state x="-1175" y="192" key="Vcs.Push.Dialog.v2" timestamp="1581667647886">
+      <screen x="-1280" y="60" width="1024" height="819" />
+    </state>
+    <state x="-1175" y="192" key="Vcs.Push.Dialog.v2/0.0.1536.864/-1280.60.1024.819@-1280.60.1024.819" timestamp="1581667647886" />
   </component>
 </project>
