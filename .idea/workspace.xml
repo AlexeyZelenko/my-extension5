@@ -1,15 +1,96 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2eb9fb9b-4521-4b4f-b7b4-c8d6b2e5a44b" name="Default Changelist" comment="start">
+      <change afterPath="$PROJECT_DIR$/../my-extension3/.idea/my-extension3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/plugins/vuetify.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-extension3/.babelrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-extension3/.eslintrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-extension3/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../my-extension3/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-extension3/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../my-extension3/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-extension3/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../my-extension3/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-extension3/src/background.js" beforeDir="false" afterPath="$PROJECT_DIR$/../my-extension3/src/background.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-extension3/src/icons/icon_128.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-extension3/src/icons/icon_48.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-extension3/src/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/../my-extension3/src/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-extension3/src/popup/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../my-extension3/src/popup/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-extension3/src/popup/popup.html" beforeDir="false" afterPath="$PROJECT_DIR$/../my-extension3/src/popup/popup.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-extension3/src/popup/popup.js" beforeDir="false" afterPath="$PROJECT_DIR$/../my-extension3/src/popup/popup.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-extension3/src/popup/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../my-extension3/src/popup/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-extension3/src/popup/router/pages/Index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../my-extension3/src/popup/router/pages/Index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/background.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/background.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/icon_128.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/icons/icon_128.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/icon_48.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/icons/icon_48.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/popup/popup.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/popup/popup.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/popup/router/pages/Index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/popup/router/pages/Index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1Xknwv6gHkHVxqI6raayRMn7czI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2eb9fb9b-4521-4b4f-b7b4-c8d6b2e5a44b" name="Default Changelist" comment="" />
+      <created>1581599201094</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581599201094</updated>
+      <workItem from="1581599202165" duration="11841000" />
+    </task>
+    <task id="LOCAL-00001" summary="start">
+      <created>1581599281158</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1581599281158</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="start" />
+    <option name="LAST_COMMIT_MESSAGE" value="start" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="-1144" y="65" key="CommitChangelistDialog2" timestamp="1581601198229">
+      <screen x="-1280" y="60" width="1024" height="819" />
+    </state>
+    <state x="-1144" y="65" key="CommitChangelistDialog2/0.0.1536.864/-1280.60.1024.819@-1280.60.1024.819" timestamp="1581601198229" />
     <state x="-987" y="212" key="FileChooserDialogImpl" timestamp="1581599217406">
       <screen x="-1280" y="60" width="1024" height="819" />
     </state>

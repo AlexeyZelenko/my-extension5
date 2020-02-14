@@ -1,6 +1,6 @@
 {
-  "name": "my-extension5",
-  "description": "A Vue.js web extension",
+  "name": "Библия - случайный стих",
+  "description": "Новая вкладка - новый стих из Библии",
   "version": null,
   "manifest_version": 2,
   "icons": {
@@ -8,8 +8,10 @@
     "128": "icons/icon_128.png"
   },
   "browser_action": {
-    "default_title": "my-extension5",
-    "default_popup": "popup/popup.html"
+    "default_title": "Новый стих"
+  },
+  "chrome_url_overrides": {
+    "newtab": "popup/popup.html"
   },
   "background": {
     "scripts": [

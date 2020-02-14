@@ -1,17 +1,29 @@
 <template>
-  <p>Hello world!</p>
-</template>
+    <iframe
+            id="randomVerseIframe"
+            src="http://allbible.info/ajax/randomverse/"
+            width="300"
+            height="300"
+            title="Подкрепись! Библия онлайн."
+            frameborder="0"
+            scrolling="no">
+    </iframe>
 
+
+</template>
 <script>
-export default {
-  data () {
-    return {}
-  }
-}
+
 </script>
 
-<style lang="scss" scoped>
-p {
-  font-size: 20px;
-}
+<style>
+    body {
+        height: 98vh;
+        text-align: center;
+        line-height: 30px;
+        background-size: 200px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
 </style>
