@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2eb9fb9b-4521-4b4f-b7b4-c8d6b2e5a44b" name="Default Changelist" comment="start">
+    <list default="true" id="2eb9fb9b-4521-4b4f-b7b4-c8d6b2e5a44b" name="Default Changelist" comment="end">
       <change afterPath="$PROJECT_DIR$/../my-extension3/.idea/my-extension3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/plugins/vuetify.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../my-extension3/.babelrc" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../my-extension3/.eslintrc.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../my-extension3/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../my-extension3/.gitignore" afterDir="false" />
@@ -20,16 +18,6 @@
       <change beforePath="$PROJECT_DIR$/../my-extension3/src/popup/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../my-extension3/src/popup/router/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../my-extension3/src/popup/router/pages/Index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../my-extension3/src/popup/router/pages/Index.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/background.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/background.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/icons/icon_128.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/icons/icon_128.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/icons/icon_48.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/icons/icon_48.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/popup/popup.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/popup/popup.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/popup/router/pages/Index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/popup/router/pages/Index.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/store/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +43,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -67,7 +55,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581599201094</updated>
-      <workItem from="1581599202165" duration="11841000" />
+      <workItem from="1581599202165" duration="12702000" />
     </task>
     <task id="LOCAL-00001" summary="start">
       <created>1581599281158</created>
@@ -76,7 +64,21 @@
       <option name="project" value="LOCAL" />
       <updated>1581599281158</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="end">
+      <created>1581667634109</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1581667634109</updated>
+    </task>
+    <task id="LOCAL-00003" summary="end">
+      <created>1581667672299</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1581667672299</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -84,17 +86,22 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="start" />
-    <option name="LAST_COMMIT_MESSAGE" value="start" />
+    <MESSAGE value="end" />
+    <option name="LAST_COMMIT_MESSAGE" value="end" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="-1144" y="65" key="CommitChangelistDialog2" timestamp="1581667672045">
+    <state x="-1144" y="65" key="CommitChangelistDialog2" timestamp="1581667823056">
       <screen x="-1280" y="60" width="1024" height="819" />
     </state>
-    <state x="-1144" y="65" key="CommitChangelistDialog2/0.0.1536.864/-1280.60.1024.819@-1280.60.1024.819" timestamp="1581667672045" />
-    <state x="-987" y="212" key="FileChooserDialogImpl" timestamp="1581599217406">
+    <state x="-1144" y="65" key="CommitChangelistDialog2/0.0.1536.864/-1280.60.1024.819@-1280.60.1024.819" timestamp="1581667823056" />
+    <state x="-987" y="212" key="FileChooserDialogImpl" timestamp="1581670656739">
       <screen x="-1280" y="60" width="1024" height="819" />
     </state>
-    <state x="-987" y="212" key="FileChooserDialogImpl/0.0.1536.864/-1280.60.1024.819@-1280.60.1024.819" timestamp="1581599217406" />
+    <state x="-987" y="212" key="FileChooserDialogImpl/0.0.1536.864/-1280.60.1024.819@-1280.60.1024.819" timestamp="1581670656739" />
+    <state x="-902" y="364" key="Github.ShareDialog" timestamp="1581667833548">
+      <screen x="-1280" y="60" width="1024" height="819" />
+    </state>
+    <state x="-902" y="364" key="Github.ShareDialog/0.0.1536.864/-1280.60.1024.819@-1280.60.1024.819" timestamp="1581667833548" />
     <state x="-1175" y="192" key="Vcs.Push.Dialog.v2" timestamp="1581667713504">
       <screen x="-1280" y="60" width="1024" height="819" />
     </state>
